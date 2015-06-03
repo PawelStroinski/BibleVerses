@@ -6,7 +6,8 @@ The idea is to use the web search engine API to get the number of web search res
 
 I'm using Bing Search API because it has more reasonable free usage offer (5000 queries / month).
 I've already used my first month's limit and some results are included (exactly Verses from 1 to 5868 at the time of writing).
-In the following months I plan to add more results and then generate report.
+~~In the following months I plan to add more results and then generate report.~~
+[The generated report is now available.](https://raw.githubusercontent.com/PawelStroinski/BibleVerses/master/BibleVerses.txt)
 
 The translation of the Holy Bible I'm using is the King James Version [downloaded from Zefania project](http://sourceforge.net/projects/zefania-sharp) as KJV is still the most poplar translation in use in the English internet.
 
